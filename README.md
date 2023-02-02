@@ -1,5 +1,4 @@
-Devido aos recentes bloqueios de bots de música no Discord, resolvi desenvolver meu próprio bot.
+Since some Discord bots that played youtube music on group calls were blocked, I decided to code my own to my personal use.
 
-O bot foi desenvolvido com JavaScript e Node.JS, para que o bot funcione corretamente é necessário inserir os arquivos do node e alterar o token do bot de acordo com seu próprio token (Pode ser substituído no arquivo index.js
-
-Desenvolvido por: Eduardo Meneghim
+The bot was developed in JavaScript and Node.JS. In order to the bot to work, it is needed to insert the node files and change the bot token according to your
+own personal token (It can be replaced on the file index.js)
